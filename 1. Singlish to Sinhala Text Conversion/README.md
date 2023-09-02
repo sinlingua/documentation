@@ -27,6 +27,7 @@ The Singlish to Sinhala text conversion component of සිංLingua offers mult
     - [4.4. Reconstruct Text](#44-reconstruct-text)
 - [Getting Started](#getting-started)
 - [Note](#note)
+- [Open in Google Colab](https://colab.research.google.com/drive/1L_qFu9jOdP-EQSm2-EhXue4pEiMuYL8p?usp=sharing)
 
 ## 1. Rule-Based Translation
 
