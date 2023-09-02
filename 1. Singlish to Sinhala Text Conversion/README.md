@@ -1,6 +1,6 @@
-[![Previous](https://img.shields.io/badge/previous-green.svg)](https://github.com/sinlingua/documentation/tree/main/5.%20Sinhala%20Text%20Summarization/README.md)
-[![Home](https://img.shields.io/badge/home-orange.svg)](https://github.com/sinlingua/documentation/blob/main/README.md)
-[![Next](https://img.shields.io/badge/next-blue.svg)](https://github.com/sinlingua/documentation/tree/main/2.%20Sinhala%20Audio%20to%20Text%20Conversion/README.md)
+[![Previous](https://img.shields.io/badge/previous-green.svg)](https://sinlingua.github.io/documentation/5.%20Sinhala%20Text%20Summarization)
+[![Home](https://img.shields.io/badge/home-orange.svg)](https://sinlingua.github.io/documentation/)
+[![Next](https://img.shields.io/badge/next-blue.svg)](https://sinlingua.github.io/documentation/2.%20Sinhala%20Audio%20to%20Text%20Conversion)
 
 # Singlish to Sinhala Text Conversion
 
@@ -290,7 +290,6 @@ To use the Singlish to Sinhala text conversion component of සිංLingua, fol
 
 - Make sure to replace `"YOUR_OPENAI_API_KEY"` and `"YOUR_ORGANIZATION_KEY"` with your actual OpenAI API key and organization key.
 
-[![Previous](https://img.shields.io/badge/previous-green.svg)](https://github.com/sinlingua/documentation/tree/main/5.%20Sinhala%20Text%20Summarization/README.md)
-[![Home](https://img.shields.io/badge/home-orange.svg)](https://github.com/sinlingua/documentation/blob/main/README.md)
-[![Next](https://img.shields.io/badge/next-blue.svg)](https://github.com/sinlingua/documentation/tree/main/2.%20Sinhala%20Audio%20to%20Text%20Conversion/README.md)
-
+[![Previous](https://img.shields.io/badge/previous-green.svg)](https://sinlingua.github.io/documentation/5.%20Sinhala%20Text%20Summarization)
+[![Home](https://img.shields.io/badge/home-orange.svg)](https://sinlingua.github.io/documentation/)
+[![Next](https://img.shields.io/badge/next-blue.svg)](https://sinlingua.github.io/documentation/2.%20Sinhala%20Audio%20to%20Text%20Conversion)
