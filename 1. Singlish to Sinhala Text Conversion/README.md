@@ -289,6 +289,7 @@ To use the Singlish to Sinhala text conversion component of සිංLingua, fol
 # Note
 
 - Make sure to replace `"YOUR_OPENAI_API_KEY"` and `"YOUR_ORGANIZATION_KEY"` with your actual OpenAI API key and organization key.
+- [Open in Google Colab](https://colab.research.google.com/drive/1L_qFu9jOdP-EQSm2-EhXue4pEiMuYL8p?usp=sharing)
 
 [![Previous](https://img.shields.io/badge/previous-green.svg)](https://sinlingua.github.io/documentation/5.%20Sinhala%20Text%20Summarization)
 [![Home](https://img.shields.io/badge/home-orange.svg)](https://sinlingua.github.io/documentation/)
