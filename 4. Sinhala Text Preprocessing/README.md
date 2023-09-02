@@ -17,10 +17,12 @@ The SinhalaStemmer class, an integral component of the Sinlingua library, is dev
 ```python
 from sinhala_data_processor.preprocessor.stemmer import SinhalaStemmer
 
+#Creating an object of SinhalaStemmer class
 stemmer_obj = SinhalaStemmer()
 
 input = '...'  # your sentence
 
+#Apply text stemming
 output = stemmer_obj.stemmer(input)
 
 print(output)
@@ -36,8 +38,10 @@ from sinlingua.preprocessor.stopword_remover import StopWordRemover
 
 input = '...'  # your sentence
 
+#Creating an object of StopWordRemover class
 stopword_remover = StopWordRemover()
 
+#Apply stopword remover
 remaining_words = stopword_remover.remove_stop_words(input)
 
 print(remaining_words)
@@ -54,8 +58,10 @@ from sinlingua.preprocessor.tokenizer import SinhalaTokenizer
 
 input = '...'  # your sentence
 
+#Creating an object of SinhalaTokenizer class
 tokenizer = SinhalaTokenizer()
 
+#Tokenize text into tokens
 tokenz = tokenizer.tokenize(input)
 
 print(tokenz)
