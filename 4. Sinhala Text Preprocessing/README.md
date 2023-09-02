@@ -1,6 +1,6 @@
-[![Previous](https://img.shields.io/badge/previous-green.svg)](https://github.com/sinlingua/documentation/tree/main/3.%20Sinhala%20Grammar%20Conversion/README.md)
-[![Home](https://img.shields.io/badge/home-orange.svg)](https://github.com/sinlingua/documentation/blob/main/README.md)
-[![Next](https://img.shields.io/badge/next-blue.svg)](https://github.com/sinlingua/documentation/tree/main/5.%20Sinhala%20Text%20Summarization/README.md)
+[![Previous](https://img.shields.io/badge/previous-green.svg)](https://sinlingua.github.io/documentation/3.%20Sinhala%20Grammar%20Conversion)
+[![Home](https://img.shields.io/badge/home-orange.svg)](https://sinlingua.github.io/documentation/)
+[![Next](https://img.shields.io/badge/next-blue.svg)](https://sinlingua.github.io/documentation/5.%20Sinhala%20Text%20Summarization)
 
 # Sinhala Text Preprocessing
 
@@ -22,6 +22,6 @@ print(output)
 ```
 
 stemmer_obj.stemmer(input)
-[![Previous](https://img.shields.io/badge/previous-green.svg)](https://github.com/sinlingua/documentation/tree/main/3.%20Sinhala%20Grammar%20Conversion/README.md)
-[![Home](https://img.shields.io/badge/home-orange.svg)](https://github.com/sinlingua/documentation/blob/main/README.md)
-[![Next](https://img.shields.io/badge/next-blue.svg)](https://github.com/sinlingua/documentation/tree/main/5.%20Sinhala%20Text%20Summarization/README.md)
+[![Previous](https://img.shields.io/badge/previous-green.svg)](https://sinlingua.github.io/documentation/3.%20Sinhala%20Grammar%20Conversion)
+[![Home](https://img.shields.io/badge/home-orange.svg)](https://sinlingua.github.io/documentation/)
+[![Next](https://img.shields.io/badge/next-blue.svg)](https://sinlingua.github.io/documentation/5.%20Sinhala%20Text%20Summarization)
