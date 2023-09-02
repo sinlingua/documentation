@@ -21,10 +21,10 @@ The Singlish to Sinhala text conversion component of සිංLingua offers mult
       - [3.2.2. Approach 2](#322-approach-2)
     - [Optional Parameters](#optional-parameters)
   - [4. Manual Translation](#4-manual-translation)
-    - [1. Generate Coordinates](#1-generate-coordinates)
-    - [2. Replace Cells](#2-replace-cells)
-    - [3. Manual Masking](#3-manual-masking)
-    - [4. Reconstruct Text](#4-reconstruct-text)
+    - [1. Generate Coordinates](#41-generate-coordinates)
+    - [2. Replace Cells](#42-replace-cells)
+    - [3. Manual Masking](#43-manual-masking)
+    - [4. Reconstruct Text](#44-reconstruct-text)
 - [Getting Started](#getting-started)
 - [Note](#note)
 
@@ -165,7 +165,7 @@ Sure, here is the section for the Manual Translation component, including the st
 
 The **Manual Translation** approach allows you to manually manipulate and modify translations according to your preferences. This can be useful for refining translations and making context-specific adjustments. The `ManualTransliterator` class provides various methods to aid in this process.
 
-### 1. Generate Coordinates
+### 4.1. Generate Coordinates
 
 The first step in manual translation is generating coordinates for each word in the Sinhala text. Coordinates uniquely identify each word and its position in the text. This can be done using the `generate_coordinates` method. 
 
@@ -187,7 +187,7 @@ manual.to_csv(dataframe=df, file="dataframe.csv")
 ### Optional parameters
 1.  `max_columns: int` You can specify the maximum number of columns in the coordinate plane.
 
-### 2. Replace Cells
+### 4.2. Replace Cells
 
 This method allows you to manually replace specific cells in the coordinate plane with desired words. You need to generate coordinates using the `generate_coordinates` method. Then, create a replacement dictionary where keys are the coordinates to be replaced and values are the replacement words. The `replace_cells` method returns a new dataframe with the changes applied.
 
@@ -216,7 +216,7 @@ original_df = manual.undo_changes(dataframe=changed_df, changes=track_changes)
 print(original_df)
 ```
 
-### 3. Manual Masking
+### 4.3. Manual Masking
 
 Manual masking involves masking specific words in the coordinate plane to be replaced later. Similar to the previous steps, you generate coordinates using the `generate_coordinates` method. Specify the coordinates you want to mask, and then use the `manual_mask` method. The resulting `reconstructed_text` can be passed to the `machine_suggest` method from the Hybrid Translation approach to find the best-matching words for the masked positions.
 
@@ -235,7 +235,7 @@ print(reconstructed_text)
 # You can use machine_suggest to find matches for masked words
 ```
 
-### 4. Reconstruct Text
+### 4.4. Reconstruct Text
 
 Finally, the `reconstruct_text` method allows you to convert the modified dataframe back into a text. This step completes the manual translation process.
 
