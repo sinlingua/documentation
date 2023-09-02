@@ -1,6 +1,6 @@
-[![Previous](https://img.shields.io/badge/previous-green.svg)](https://github.com/sinlingua/documentation/tree/main/2.%20Sinhala%20Audio%20to%20Text%20Conversion/README.md)
-[![Home](https://img.shields.io/badge/home-orange.svg)](https://github.com/sinlingua/documentation/blob/main/README.md)
-[![Next](https://img.shields.io/badge/next-blue.svg)](https://github.com/sinlingua/documentation/tree/main/4.%20Sinhala%20Text%20Preprocessing/README.md)
+[![Previous](https://img.shields.io/badge/previous-green.svg)](https://sinlingua.github.io/documentation/2.%20Sinhala%20Audio%20to%20Text%20Conversion)
+[![Home](https://img.shields.io/badge/home-orange.svg)](https://sinlingua.github.io/documentation/)
+[![Next](https://img.shields.io/badge/next-blue.svg)](https://sinlingua.github.io/documentation/4.%20Sinhala%20Text%20Preprocessing)
 
 # Sinhala Grammatical Rule Mapping
 
@@ -612,6 +612,6 @@ Output:
 ```
 
 
-[![Previous](https://img.shields.io/badge/previous-green.svg)](https://github.com/sinlingua/documentation/tree/main/2.%20Sinhala%20Audio%20to%20Text%20Conversion/README.md)
-[![Home](https://img.shields.io/badge/home-orange.svg)](https://github.com/sinlingua/documentation/blob/main/README.md)
-[![Next](https://img.shields.io/badge/next-blue.svg)](https://github.com/sinlingua/documentation/tree/main/4.%20Sinhala%20Text%20Preprocessing/README.md)
+[![Previous](https://img.shields.io/badge/previous-green.svg)](https://sinlingua.github.io/documentation/2.%20Sinhala%20Audio%20to%20Text%20Conversion)
+[![Home](https://img.shields.io/badge/home-orange.svg)](https://sinlingua.github.io/documentation/)
+[![Next](https://img.shields.io/badge/next-blue.svg)](https://sinlingua.github.io/documentation/4.%20Sinhala%20Text%20Preprocessing)
