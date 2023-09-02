@@ -1,6 +1,6 @@
-[![Previous](https://img.shields.io/badge/previous-green.svg)](https://github.com/sinlingua/documentation/tree/main/4.%20Sinhala%20Text%20Preprocessing/README.md)
-[![Home](https://img.shields.io/badge/home-orange.svg)](https://github.com/sinlingua/documentation/blob/main/README.md)
-[![Next](https://img.shields.io/badge/next-blue.svg)](https://github.com/sinlingua/documentation/tree/main/1.%20Singlish%20to%20Sinhala%20Text%20Conversion/README.md)
+[![Previous](https://img.shields.io/badge/previous-green.svg)](https://sinlingua.github.io/documentation/4.%20Sinhala%20Text%20Preprocessing)
+[![Home](https://img.shields.io/badge/home-orange.svg)](https://sinlingua.github.io/documentation/)
+[![Next](https://img.shields.io/badge/next-blue.svg)](https://sinlingua.github.io/documentation/1.%20Singlish%20to%20Sinhala%20Text%20Conversion)
 
 # Sinhala Text Summarization & Translation
 
@@ -308,6 +308,6 @@ To use the Sinhala Text Summarization & Translation component of සිංLingua
 
 `Translation Feature(English)` """The electricity bill and the water bill increased by three folds, and soon the weight of a power crisis and the weight of the water crisis had collapsed.The water fees have been increased by more than 50 percent yesterday.Also, the government has seen that the government is trying to make a power cut in the near future.Therefore, we all need to understand that we will be nearing water and power cuts.Of course, we all need to understand that the cause of the situation is the cause of bad weather.However, the Department of Meteorology has also been accused of not saying the weather forecast.In the investigation of the global conditions that the existing bad dry weather condition is not a result of our country.The next effect here is the rising hills of the polar-in-polate-country.The impact of its impact goes up the sea level, falling lowlands and flows along the rivers.Therefore, it has been to carry out our work subject to these rules of nature.Prepare for this purpose we must have been trained in.It is a separate story to not prepare for the previous training for the previous training.If the government had prepared preparation, the government was able to manage the crisis in the Udawalawa movement.Although there were 103 major rivers and 35,000 civilians, the country is a great crisis if the country is not waterless.It has been a sad story that is the prosperity of Israel and rivers, wanks, wanks, ponds, ponds, and ponds.We are all knowing how high is the price of rice, vegetables, eggs, meat, fish.But the country seems to be restored to some extent.Most factory employees have been limited by employers.Some of the famous garant factories spend a month for about 15 days.There are no annual stairs, gratuity allowances of many institutions.The seven-eight months have passed since the living roads of the people of the people and the living routes of the people.At times, the increasing electricity bill, the water bill is becoming a huge codow.The government needs to go to a sustainable solution, and should not be reduced to conservation of water,forests."""
 
-[![Previous](https://img.shields.io/badge/previous-green.svg)](https://github.com/sinlingua/documentation/tree/main/4.%20Sinhala%20Text%20Preprocessing/README.md)
-[![Home](https://img.shields.io/badge/home-orange.svg)](https://github.com/sinlingua/documentation/blob/main/README.md)
-[![Next](https://img.shields.io/badge/next-blue.svg)](https://github.com/sinlingua/documentation/tree/main/1.%20Singlish%20to%20Sinhala%20Text%20Conversion/README.md)
+[![Previous](https://img.shields.io/badge/previous-green.svg)](https://sinlingua.github.io/documentation/4.%20Sinhala%20Text%20Preprocessing)
+[![Home](https://img.shields.io/badge/home-orange.svg)](https://sinlingua.github.io/documentation/)
+[![Next](https://img.shields.io/badge/next-blue.svg)](https://sinlingua.github.io/documentation/1.%20Singlish%20to%20Sinhala%20Text%20Conversion)
