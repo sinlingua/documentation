@@ -1,6 +1,6 @@
-[![Previous](https://img.shields.io/badge/previous-green.svg)](https://github.com/sinlingua/documentation/tree/main/1.%20Singlish%20to%20Sinhala%20Text%20Conversion/README.md)
-[![Home](https://img.shields.io/badge/home-orange.svg)](https://github.com/sinlingua/documentation/blob/main/README.md)
-[![Next](https://img.shields.io/badge/next-blue.svg)](https://github.com/sinlingua/documentation/tree/main/3.%20Sinhala%20Grammar%20Conversion/README.md)
+[![Previous](https://img.shields.io/badge/previous-green.svg)](https://sinlingua.github.io/documentation/1.%20Singlish%20to%20Sinhala%20Text%20Conversion)
+[![Home](https://img.shields.io/badge/home-orange.svg)](https://sinlingua.github.io/documentation/)
+[![Next](https://img.shields.io/badge/next-blue.svg)](https://sinlingua.github.io/documentation/3.%20Sinhala%20Grammar%20Conversion)
 
 # Sinhala Audio to Text Conversion
 
@@ -56,6 +56,6 @@ print(transcript)
 both the `conversion()` function and the `conversion_by_input()` function, demonstrating two different ways users can convert Sinhala audio into text transcripts using සිංLingua library. 
 
 ## Predict the Most Suitable word using Machine Learning and Mapping the Grammar Rules.
-[![Previous](https://img.shields.io/badge/previous-green.svg)](https://github.com/sinlingua/documentation/tree/main/1.%20Singlish%20to%20Sinhala%20Text%20Conversion/README.md)
-[![Home](https://img.shields.io/badge/home-orange.svg)](https://github.com/sinlingua/documentation/blob/main/README.md)
-[![Next](https://img.shields.io/badge/next-blue.svg)](https://github.com/sinlingua/documentation/tree/main/3.%20Sinhala%20Grammar%20Conversion/README.md)
+[![Previous](https://img.shields.io/badge/previous-green.svg)](https://sinlingua.github.io/documentation/1.%20Singlish%20to%20Sinhala%20Text%20Conversion)
+[![Home](https://img.shields.io/badge/home-orange.svg)](https://sinlingua.github.io/documentation/)
+[![Next](https://img.shields.io/badge/next-blue.svg)](https://sinlingua.github.io/documentation/3.%20Sinhala%20Grammar%20Conversion)
