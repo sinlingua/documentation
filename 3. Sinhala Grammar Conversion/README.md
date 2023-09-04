@@ -15,7 +15,7 @@ If a sentence starts with "මම" or "මා" in present tense, it should end w
 Consider the following code segment:
 
 ```python
-from sinhala_data_processor.grammar_rule.grammar_main import GrammarMain
+from sinlingua.grammar_rule.grammar_main import GrammarMain
 
 # Create an instance of GrammarMain
 obj = GrammarMain()
@@ -35,7 +35,7 @@ Output:
 ```
 
 ```python
-from sinhala_data_processor.grammar_rule.grammar_main import GrammarMain
+from sinlingua.grammar_rule.grammar_main import GrammarMain
 
 # Create an instance of GrammarMain
 obj = GrammarMain()
@@ -62,7 +62,7 @@ If a sentence starts with "අප" or "අපි" in present tense, it should en
 Consider the following code segment:
 
 ```python
-from sinhala_data_processor.grammar_rule.grammar_main import GrammarMain
+from sinlingua.grammar_rule.grammar_main import GrammarMain
 
 # Create an instance of GrammarMain
 obj = GrammarMain()
@@ -82,7 +82,7 @@ Output:
 ```
 
 ```python
-from sinhala_data_processor.grammar_rule.grammar_main import GrammarMain
+from sinlingua.grammar_rule.grammar_main import GrammarMain
 
 # Create an instance of GrammarMain
 obj = GrammarMain()
@@ -108,7 +108,7 @@ If a sentence starts with "මම" or "මා" in future tense, it should end wi
 ## Examples
 
 ```python
-from sinhala_data_processor.grammar_rule.grammar_main import GrammarMain
+from sinlingua.grammar_rule.grammar_main import GrammarMain
 
 # Create an instance of GrammarMain
 obj = GrammarMain()
@@ -134,7 +134,7 @@ If a sentence starts with "අප" or "අපි" in future tense, it should end
 ## Examples
 
 ```python
-from sinhala_data_processor.grammar_rule.grammar_main import GrammarMain
+from sinlingua.grammar_rule.grammar_main import GrammarMain
 
 # Create an instance of GrammarMain
 obj = GrammarMain()
@@ -160,7 +160,7 @@ If a sentence starts with "මම" or "මා" in past tense, it should end with
 ## Examples
 
 ```python
-from sinhala_data_processor.grammar_rule.grammar_main import GrammarMain
+from sinlingua.grammar_rule.grammar_main import GrammarMain
 
 # Create an instance of GrammarMain
 obj = GrammarMain()
@@ -186,7 +186,7 @@ If a sentence starts with "අප" or "අපි" in past tense, it should end w
 ## Examples
 
 ```python
-from sinhala_data_processor.grammar_rule.grammar_main import GrammarMain
+from sinlingua.grammar_rule.grammar_main import GrammarMain
 
 # Create an instance of GrammarMain
 obj = GrammarMain()
@@ -212,7 +212,7 @@ If a sentence starts with "ඇය" or "ඈ" in present tense, it should end with
 ## Examples
 
 ```python
-from sinhala_data_processor.grammar_rule.grammar_main import GrammarMain
+from sinlingua.grammar_rule.grammar_main import GrammarMain
 
 # Create an instance of GrammarMain
 obj = GrammarMain()
@@ -238,7 +238,7 @@ If a sentence starts with "ඇය" or "ඈ" in past tense, it should end with "�
 ## Examples
 
 ```python
-from sinhala_data_processor.grammar_rule.grammar_main import GrammarMain
+from sinlingua.grammar_rule.grammar_main import GrammarMain
 
 # Create an instance of GrammarMain
 obj = GrammarMain()
@@ -264,7 +264,7 @@ If a sentence starts with "ඔහු" in present tense, it should end with "ය�
 ## Examples
 
 ```python
-from sinhala_data_processor.grammar_rule.grammar_main import GrammarMain
+from sinlingua.grammar_rule.grammar_main import GrammarMain
 
 # Create an instance of GrammarMain
 obj = GrammarMain()
@@ -284,7 +284,7 @@ Output:
 ```
 
 ```python
-from sinhala_data_processor.grammar_rule.grammar_main import GrammarMain
+from sinlingua.grammar_rule.grammar_main import GrammarMain
 
 # Create an instance of GrammarMain
 obj = GrammarMain()
@@ -310,7 +310,7 @@ If a sentence starts with "ඔහු" in past tense, it should end with "ේය"
 ## Examples
 
 ```python
-from sinhala_data_processor.grammar_rule.grammar_main import GrammarMain
+from sinlingua.grammar_rule.grammar_main import GrammarMain
 
 # Create an instance of GrammarMain
 obj = GrammarMain()
@@ -330,7 +330,7 @@ Output:
 ```
 
 ```python
-from sinhala_data_processor.grammar_rule.grammar_main import GrammarMain
+from sinlingua.grammar_rule.grammar_main import GrammarMain
 
 # Create an instance of GrammarMain
 obj = GrammarMain()
@@ -356,7 +356,7 @@ If a sentence starts with "ඔවුන්" or "ඔවුහු" in present tens
 ## Examples
 
 ```python
-from sinhala_data_processor.grammar_rule.grammar_main import GrammarMain
+from sinlingua.grammar_rule.grammar_main import GrammarMain
 
 # Create an instance of GrammarMain
 obj = GrammarMain()
@@ -376,7 +376,7 @@ Output:
 ```
 
 ```python
-from sinhala_data_processor.grammar_rule.grammar_main import GrammarMain
+from sinlingua.grammar_rule.grammar_main import GrammarMain
 
 # Create an instance of GrammarMain
 obj = GrammarMain()
@@ -396,7 +396,7 @@ Output:
 ```
 
 ```python
-from sinhala_data_processor.grammar_rule.grammar_main import GrammarMain
+from sinlingua.grammar_rule.grammar_main import GrammarMain
 
 # Create an instance of GrammarMain
 obj = GrammarMain()
@@ -422,7 +422,7 @@ If a sentence starts with "ඔවුන්" or "ඔවුහු" in past tense, 
 ## Examples
 
 ```python
-from sinhala_data_processor.grammar_rule.grammar_main import GrammarMain
+from sinlingua.grammar_rule.grammar_main import GrammarMain
 
 # Create an instance of GrammarMain
 obj = GrammarMain()
@@ -442,7 +442,7 @@ Output:
 ```
 
 ```python
-from sinhala_data_processor.grammar_rule.grammar_main import GrammarMain
+from sinlingua.grammar_rule.grammar_main import GrammarMain
 
 # Create an instance of GrammarMain
 obj = GrammarMain()
@@ -468,7 +468,7 @@ If a sentence starts with "තී" or "තෝ" or "ඔබ" or "නුඹ" in pas
 ## Examples
 
 ```python
-from sinhala_data_processor.grammar_rule.grammar_main import GrammarMain
+from sinlingua.grammar_rule.grammar_main import GrammarMain
 
 # Create an instance of GrammarMain
 obj = GrammarMain()
@@ -494,7 +494,7 @@ If a sentence starts with "තෙපි" or "තොපි" in past tense, it sho
 ## Examples
 
 ```python
-from sinhala_data_processor.grammar_rule.grammar_main import GrammarMain
+from sinlingua.grammar_rule.grammar_main import GrammarMain
 
 # Create an instance of GrammarMain
 obj = GrammarMain()
@@ -520,7 +520,7 @@ If a sentence starts with a plural subject in present tense, it should end with 
 ## Examples
 
 ```python
-from sinhala_data_processor.grammar_rule.grammar_main import GrammarMain
+from sinlingua.grammar_rule.grammar_main import GrammarMain
 
 # Create an instance of GrammarMain
 obj = GrammarMain()
@@ -540,7 +540,7 @@ Output:
 ```
 
 ```python
-from sinhala_data_processor.grammar_rule.grammar_main import GrammarMain
+from sinlingua.grammar_rule.grammar_main import GrammarMain
 
 # Create an instance of GrammarMain
 obj = GrammarMain()
@@ -566,7 +566,7 @@ If a sentence starts with a plural subject in past tense, it should end with a p
 ## Examples
 
 ```python
-from sinhala_data_processor.grammar_rule.grammar_main import GrammarMain
+from sinlingua.grammar_rule.grammar_main import GrammarMain
 
 # Create an instance of GrammarMain
 obj = GrammarMain()
@@ -592,7 +592,7 @@ If a sentence starts with a singular subject in present tense, it should end wit
 ## Examples
 
 ```python
-from sinhala_data_processor.grammar_rule.grammar_main import GrammarMain
+from sinlingua.grammar_rule.grammar_main import GrammarMain
 
 # Create an instance of GrammarMain
 obj = GrammarMain()
@@ -610,7 +610,67 @@ Output:
 ```
 දරුවා වෙහෙස මහන්සියෙන් ඉගෙන ගනියි
 ```
+# Sinhala Word Suggestion
 
+There is a way to suggest the appropriate word for a given sentence.
+
+## Usage
+
+Provide the most appropriate suggestion
+
+## Example
+
+Consider the following code segment:
+
+```python
+from sinlingua.grammar_rule.LLM_config import LLMConfig
+
+# Create an instance of GrammarMain
+obj = LLMConfig()
+
+# Original informal sentence
+sentence = "දරුවා වෙහෙස මහන්සියෙන් ඉගෙන <mask>"
+sequence, token_str = obj.berto_predict(sentence=sentence)
+print(f"Sequence: {sequence}")
+print(f"Token String: {token_str}")
+```
+
+Output:
+
+```
+Sequence: දරුවා වෙහෙස මහන්සියෙන් ඉගෙන ඇත
+Token String:  ඇත
+```
+## Usage
+
+Provide appropriate suggestions
+
+## Example
+
+Consider the following code segment:
+
+```python
+from sinlingua.grammar_rule.LLM_config import LLMConfig
+
+# Create an instance of GrammarMain
+obj = LLMConfig()
+
+# Original informal sentence
+sentence = "දරුවා වෙහෙස මහන්සියෙන් ඉගෙන <mask>"
+out = obj.berto_predict_top(sentence=sentence)
+for p in out:
+  print(*p)
+```
+
+Output:
+
+```
+දරුවා වෙහෙස මහන්සියෙන් ඉගෙන ඇත  ඇත
+දරුවා වෙහෙස මහන්සියෙන් ඉගෙනේ. ේ.
+දරුවා වෙහෙස මහන්සියෙන් ඉගෙන... ...
+දරුවා වෙහෙස මහන්සියෙන් ඉගෙන ඒමට  ඒමට
+දරුවා වෙහෙස මහන්සියෙන් ඉගෙන ඒම  ඒම
+```
 
 [![Previous](https://img.shields.io/badge/previous-green.svg)](https://sinlingua.github.io/documentation/2.%20Sinhala%20Audio%20to%20Text%20Conversion)
 [![Home](https://img.shields.io/badge/home-orange.svg)](https://sinlingua.github.io/documentation/)
