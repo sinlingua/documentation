@@ -643,7 +643,7 @@ Token String:  ඇත
 ```
 ## Usage
 
-Provide appropriate suggestions
+Provide more than one appropriate suggestions(upto 5 suggestions)
 
 ## Example
 
